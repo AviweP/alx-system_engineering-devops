@@ -1,1 +1,3 @@
-Im a alx system engineer developer
+#!/bin/bash
+im a alx student full stack engineer
+
